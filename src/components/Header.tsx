@@ -111,6 +111,7 @@ interface HeaderResponsiveProps {
 const links = [
   { label: "Home", link: "/" },
   { label: "About", link: "/about" },
+  { label: "Members", link: "/members" },
   { label: "Contact", link: "/contacts" },
 ];
 
