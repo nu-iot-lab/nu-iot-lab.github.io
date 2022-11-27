@@ -15,10 +15,10 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
-###Troubleshooting:
+### Troubleshooting:
 if `yarn start` shows an error like
-"react-scripts start "react-scripts" не является внутренней или внешней командой, исполняемой программой или пакетным файлом. error Command failed with exit code 1."
-Then write `npm install react-scripts --save` in the file directory to download missing node modules
+yarn run v1.3.2 $ react-scripts build 'react-scripts' is not recognized as an internal or external command, operable program or batch file. error Command failed with exit code 1. info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+Then try writing `npm install react-scripts --save` in the file directory to download missing node modules
 
 
 
