@@ -6,7 +6,7 @@ const NewsData = [
     title: "Improving LoRaWAN downlink performance in the EU868 spectrum",
     date: "Sep 2022",
     author: {
-      name: "Dimitrios Zormpas",
+      name: "Dimitrios Zorbas",
       avatar:
         "https://lh3.googleusercontent.com/a-/ACNPEu_qmK7IidCh8U8TK0Sq9yUBojUIJYLkgpEx_R_5=s48-p",
     },
@@ -21,7 +21,7 @@ const NewsData = [
     title: "ActLoRa: Supporting Actuators in LoRaWAN",
     date: "May 2022",
     author: {
-      name: "Dimitrios Zormpas",
+      name: "Dimitrios Zorbas",
       avatar:
         "https://lh3.googleusercontent.com/a-/ACNPEu_qmK7IidCh8U8TK0Sq9yUBojUIJYLkgpEx_R_5=s48-p",
     },
@@ -37,7 +37,7 @@ const NewsData = [
       "A Comprehensive Survey on RF Energy Harvesting: Applications and Performance Determinants",
     date: "Apr 2022",
     author: {
-      name: "Dimitrios Zormpas",
+      name: "Dimitrios Zorbas",
       avatar:
         "https://lh3.googleusercontent.com/a-/ACNPEu_qmK7IidCh8U8TK0Sq9yUBojUIJYLkgpEx_R_5=s48-p",
     },
@@ -51,7 +51,7 @@ const NewsData = [
     title: "A Testbed for Time-Slotted LoRa Communications",
     date: "2020",
     author: {
-      name: "Dimitrios Zormpas",
+      name: "Dimitrios Zorbas",
       avatar:
         "https://lh3.googleusercontent.com/a-/ACNPEu_qmK7IidCh8U8TK0Sq9yUBojUIJYLkgpEx_R_5=s48-p",
     },
@@ -65,7 +65,7 @@ const NewsData = [
     title: "Time-slotted LoRa MAC with variable payload support",
     date: "2021",
     author: {
-      name: "Dimitrios Zormpas",
+      name: "Dimitrios Zorbas",
       avatar:
         "https://lh3.googleusercontent.com/a-/ACNPEu_qmK7IidCh8U8TK0Sq9yUBojUIJYLkgpEx_R_5=s48-p",
     },
@@ -79,7 +79,7 @@ const NewsData = [
     title: "Performance Determinants in LoRa Networks: A Literature Review",
     date: "2021",
     author: {
-      name: "Dimitrios Zormpas",
+      name: "Dimitrios Zorbas",
       avatar:
         "https://lh3.googleusercontent.com/a-/ACNPEu_qmK7IidCh8U8TK0Sq9yUBojUIJYLkgpEx_R_5=s48-p",
     },
@@ -93,7 +93,7 @@ const NewsData = [
     title: "(Funded) Optimal Data Collection Time in LoRa Networks—A Time-Slotted Approach",
     date: "2021",
     author: {
-      name: "Dimitrios Zormpas",
+      name: "Dimitrios Zorbas",
       avatar:
         "https://lh3.googleusercontent.com/a-/ACNPEu_qmK7IidCh8U8TK0Sq9yUBojUIJYLkgpEx_R_5=s48-p",
     },
@@ -107,7 +107,7 @@ const NewsData = [
     title: "Improving LoRa Network Capacity Using Multiple Spreading Factor Configurations",
     date: "2018",
     author: {
-      name: "Dimitrios Zormpas",
+      name: "Dimitrios Zorbas",
       avatar:
         "https://lh3.googleusercontent.com/a-/ACNPEu_qmK7IidCh8U8TK0Sq9yUBojUIJYLkgpEx_R_5=s48-p",
     },
@@ -121,7 +121,7 @@ const NewsData = [
     title: "Optimal drone placement and cost-efficient target coverage",
     date: "2016",
     author: {
-      name: "Dimitrios Zormpas",
+      name: "Dimitrios Zorbas",
       avatar:
         "https://lh3.googleusercontent.com/a-/ACNPEu_qmK7IidCh8U8TK0Sq9yUBojUIJYLkgpEx_R_5=s48-p",
     },
@@ -135,7 +135,7 @@ const NewsData = [
     title: "(Funded) Energy efficient mobile target tracking using flying drones",
     date: "2013",
     author: {
-      name: "Dimitrios Zormpas",
+      name: "Dimitrios Zorbas",
       avatar:
         "https://lh3.googleusercontent.com/a-/ACNPEu_qmK7IidCh8U8TK0Sq9yUBojUIJYLkgpEx_R_5=s48-p",
     },
