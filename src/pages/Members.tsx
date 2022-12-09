@@ -5,6 +5,7 @@ import {
   Container,
   createStyles,
   Grid,
+  Title,
 } from "@mantine/core";
 import React from "react";
 import { MembersData } from "../data/MembersData";
@@ -21,12 +22,19 @@ const useStyles = createStyles((theme) => ({
       justifyContent: "center",
     },
   },
+  title: {
+    display: "flex",
+    justifyContent: "center",
+    marginBottom: theme.spacing.xl,
+  },
 }));
 
 const Members = () => {
   const { classes } = useStyles();
   return (
     <Container>
+      <Title className={classes.title}>Our Members</Title>
+
       <Grid gutter={20}>
         {MembersData.map((member) => (
           <Grid.Col span={4} className={classes.gridCard}>
@@ -42,7 +50,12 @@ const Members = () => {
                     : theme.white,
               })}
             >
-              <Avatar src={member.image} size={120} radius={120} mx="auto" />
+              {member.image === "" ? (
+                <Avatar size={120} radius={120} mx="auto" />
+              ) : (
+                <Avatar src={member.image} size={120} radius={120} mx="auto" />
+              )}
+
               <Text align="center" size="lg" weight={500} mt="md">
                 {member.fullName}
               </Text>

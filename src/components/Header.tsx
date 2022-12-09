@@ -104,9 +104,6 @@ const useStyles = createStyles((theme) => ({
   },
 }));
 
-interface HeaderResponsiveProps {
-  links: { link: string; label: string }[];
-}
 
 const links = [
   { label: "Home", link: "/" },

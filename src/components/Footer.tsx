@@ -31,14 +31,12 @@ const useStyles = createStyles((theme) => ({
   },
 }));
 
-interface FooterSimpleProps {
-  links: { link: string; label: string }[];
-}
+
 
 const links = [
   { label: "Home", link: "/" },
   { label: "About", link: "/about" },
-  { label: "Contact", link: "/contact" },
+  { label: "Contact", link: "/contacts" },
 ];
 
 export function FooterSimple() {
@@ -48,7 +46,6 @@ export function FooterSimple() {
       color="dimmed"
       key={link.label}
       href={link.link}
-      onClick={(event) => event.preventDefault()}
       size="sm"
     >
       {link.label}
@@ -58,7 +55,6 @@ export function FooterSimple() {
   return (
     <div className={classes.footer}>
       <Container className={classes.inner}>
-        {/* <MantineLogo size={28} /> */}
         <Group className={classes.links}>{items}</Group>
       </Container>
     </div>

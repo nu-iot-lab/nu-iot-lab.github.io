@@ -19,6 +19,7 @@ const useStyles = createStyles((theme) => ({
     maxWidth: 480,
     marginRight: theme.spacing.xl * 3,
     padding: "119px",
+    paddingLeft: "30px",
     [theme.fn.smallerThan("md")]: {
       maxWidth: "100%",
       marginRight: 0,

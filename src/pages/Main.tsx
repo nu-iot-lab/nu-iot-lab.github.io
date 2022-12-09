@@ -38,7 +38,7 @@ const useStyles = createStyles((theme) => ({
 }));
 
 const Main = () => {
-  const { classes, cx } = useStyles();
+  const { classes } = useStyles();
   return (
     <>
       {/* <HeaderResponsive /> */}

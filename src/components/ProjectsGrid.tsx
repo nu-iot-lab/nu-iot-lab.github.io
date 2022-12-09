@@ -86,7 +86,7 @@ export function FeaturesCards() {
           Check out our latests projects
         </Title>
         <Text color="dimmed" className={classes.description} align="center" mt="md">
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+        Some of our latest projects are listed below. 
       </Text>
         <SimpleGrid
           cols={3}

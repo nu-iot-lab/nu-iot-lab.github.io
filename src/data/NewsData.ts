@@ -60,7 +60,7 @@ const NewsData = [
     link: "https://www.researchgate.net/publication/363304500",
   },
   {
-    image: "https://lh3.googleusercontent.com/pw/AL9nZEWo9FLuhDzIYP-zVwu0wOvkMKKyq-XtzwPmoXSqpnkTR6Fl-jDpPKBJrZaD2D7vOhB-Lm_s4T5Gp5exd4hsiUyIFhWi5qNWej5-IOSKNhotBVJwDYiLD5GoyDe-nektGgTbrkB6cHnXvNf4uCfMLq_c99KLPHdSMbhZtwRtJHM2QJsFWAcxEnEC_gV0D3X_oAbMwbAfMKjWW28wPNYGUQ-_VzF8ooYFRcG7ChrtM84-x0NGyYnlQG3-7njXPTqLFSVg235t64Ybe9_lAxEkXTDP103eCLsaTRlz-lL_H2YZ0016X8lGfBN47aZmcv1cD2VLg4kKrkOldRfdf6lUSHDhdFDCxraRXQ1kdYVMW9nm30qeEfyzQ2cIoqrTwFst-HviOI5adxFWJLbph7ie51yg1ZZ0f3UY0hseTYsTvL3ohOxvWPo9VEtdBrjacSc6rmj-vcP6jVTEM9qC4CxE21Bm_MP2gakquiDVYSJ21vZcv_7xRD5H5qqYeQz3uC5TFrreKPX2ayQCHPyS96HH0j9V-pRhYzMl36Mo7HqpFQk8fSnluxay69XmvhsqmJWjZ-DTsq_UQio2-SHoITL8hJrsWH4_QDPGQSkO05ZZLwHbM7ayprrKbhT1z5g8X4URWugdZ7CmdR1ds5gNNRUVdKIugpgppnDjIPMu_Y2mM__JeUUuniAWLU1iVvOShxCGkvRA-fFCYTgbjq7qcdL3Sg1q4e614W3_HM2qbkCbjwVAuS2y5--TJcOaOcgf5aXS3x9Wx2ar6ArV2Ihed_WVO_0LzIy4yiO5M184sG03ZcPp-iRY9YotQWcD8rdJnzu2fd0oqqhM-trEw38J_wsXAULeI5BGjyeEc2MOOtYSgl2eVGVmw-msuH-T1lPoJUt6ijI4Idcrm1Spedk8DxpRAOOJFKXvgeTB2YjdKPIJ4LO8q94dNYObj7-pLVk=w455-h284-no?authuser=2",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1WIZ61gHn5uKtyKRqBGiLf8_khmJSSSHsTl0rNKQu7HLii0cr7WpQ46vD8B4WsFWSa9A&usqp=CAU",
     category: "technology",
     title: "Time-slotted LoRa MAC with variable payload support",
     date: "2021",
@@ -74,7 +74,7 @@ const NewsData = [
     link: "https://www.sciencedirect.com/science/article/pii/S0140366422002444",
   },
   {
-    image: "https://lh3.googleusercontent.com/pw/AL9nZEXA34a0WYP3l1o_Om9Tj7dNzN4VD4PE2DYlVPF-Nfoljugi-xGC2DPJrnQwMTztLmKwhCkGts0N6tUnUUUmq2K6JTisNQGLG3bSIZUXV1gLj6BZZBD3lQc0_FNq-E1koEw2YRmfdfxSlgnvuLpUGuErm-KvOIK7jtSi7EmePeF-R5osX3RHbEB34pmL5rySuSvFkZF1YY_oaS8v4GCwMZajJQnUPKoHhwauotd_aurLUNyjapxlahloeJctA5wvguCnFagxoo6TDtMOx_PUHMst4s-0DQ9-qehnYmdt6Yuz7-hDoLMyTyaZHUVaE0vSq6tSycvDJjRs3y-EC_GLtw6mQPbJH9G46OCsYSjZljx_MqUxpex7vYctHQDGtClE7_EJKmFtFNu60QpoBFGNj448p3mAPXFhlBcX1I18gKIQAwRlx15ApQbl4DO0OnuBCuQJD-DfjyT5TNYeB4PZx6InUJlIN2t3N1ahKn12CmshCFIv3vIS6ZLFl4FAJYU4JUeE0NNqn5Ro6Rs8o8kgof17GOBKRU8IvzaEVNlmHvqqcv8f7s7P_rae_QXwPdBifvB6X38hq2FbdV_HTNIoCUkn0EOwNmMgd-W3u6sSMI-RljSHDm29qt7AGF97CAvSof5RYvX1dTjLjFFyLf2CFN6JNmHSjW2HxXc-v_WEpH2vEFzYc-b7oLvbavPc97oIM5NxXHLa731z0kGq6l-DHJH5_9exxgxPEgIRnb5_Q5PfBPEphxKc7cuONsmT7bdWPANdXLLX7oY4OKN-hjAZl7knoj10ejDABRqoh34WeeySyH3gZLcKlBOy8RGO4sHKVPEcvs1G4dgLxkqQEOBlihnYgdjO38IByUBhbsz09pULIDD6fKqKNkIAN6mL7_DcEo1jhTVM0c1qvr5tqwN29W0e2yOQeVadXivBuc9bfdPpsedJeWaH5ZbKEaM=w509-h308-no?authuser=2",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1WIZ61gHn5uKtyKRqBGiLf8_khmJSSSHsTl0rNKQu7HLii0cr7WpQ46vD8B4WsFWSa9A&usqp=CAU",
     category: "technology",
     title: "Performance Determinants in LoRa Networks: A Literature Review",
     date: "2021",
@@ -88,7 +88,7 @@ const NewsData = [
     link: "https://ieeexplore.ieee.org/document/9463416",
   },
   {
-    image: "https://lh3.googleusercontent.com/pw/AL9nZEWkNQ0l3usAM009vpRK60BJ3QT8YDiDFlpjKDFlrzCI_KC02SLHVXtat3PNwAuD3NTuhi3vAuK_SGT3U6wpyHM_2C3bmBR1eIlk_1UYqQpY23IKOJNOVJXAl2oahTF4jNIEc6QWtLnRwC2T5pggIfB_goce3tY3e8SMTpwrNV8zsf8wA_p781JX-7Fm3rc3WDfROtwda9IrEfheVt_b3nr4sbbLzTjDR4Ncu9yjuhAfMoXOTxkpEsnP9c_WgnvTgpP-3liz1HsktF4InCWKn1mIagRcAoBp-hUSMsfb_HJgB6DBJO4PAhxKDQh2aW8XZQC_xWVGzyzgt9NsK_2nsU25Bvhsq1FQvoHHByqCKcSzHfsgaay4oi-jwtqvMcoA1K3FHILDTIsEH5nnr_jbVflOP3LpK1RC0K4S-_EhxQytt79s2aDyjUsEcPASXzBNprLrWp78aZtR6E2tDfg3hHj2D4c7aKd0T6XstjFSqI0Pm8eAbYmbsHwcIt3kbTm_eEHPNJf34p6XZmXbJaJj3v_rL2xVYalHvIXMunmjJSpJdCGXbJc48x7vqGkCB-1DSnTHIyh3vbYYuqcXwuy6dFutsDyQerK5zbYrTWOlfsoiKOuIZkvx0V82TZQQr426nf7J5wu1F74vlgyoWTGe9Z_iI5kZLcsmJm5AHNtDWocV4Q-NruMgSCJ54LxGQxasQ8nvdeE3Nx7Qey5Cuyl8xLoKxdGyERoP_PkaCbV-83lElQ7JHfYw8fHDAErKFGk2GwTiftV-92tCpnwTTSZ7kc-d-xWu2OL4RRIFDKe8rXR17XopPD14wFLKePQds4nzaEjla847ptBTRvmflCA9cAaqyUD06P7z9Q3w7oYfgsOXyITeBxzBQ0VFWiHKamW-WVBw-qg6lkkeDtvNB2vrokw3AItMCjQRAqiMvMeP-XRvHfkH6QItgL1ul2o=w533-h259-no?authuser=2",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1WIZ61gHn5uKtyKRqBGiLf8_khmJSSSHsTl0rNKQu7HLii0cr7WpQ46vD8B4WsFWSa9A&usqp=CAU",
     category: "technology",
     title: "(Funded) Optimal Data Collection Time in LoRa Networks—A Time-Slotted Approach",
     date: "2021",
@@ -130,7 +130,7 @@ const NewsData = [
     link: "https://www.sciencedirect.com/science/article/pii/S1084804516301709",
   },
   {
-    image: "https://lh3.googleusercontent.com/pw/AL9nZEVSMbUmRMXA8VOI2Lxu57p-b8rRsXUr-guyO-RCRc2_HJ7UnjqYcdfVfb3faXzH9stFettGj5mIaavw-P3eI329rcEfTFjP9_SHqMlCk1cHxG5qj9YuCNKY5B4chJVj_WwHWXeslGs5d-Uvk8C6wX6RDdiEsHS91KA8-_3NhXcGo__fdb8Y2qzoMics3W6AuvymQSibywS2OGlHDcdEIGcDgBg9BsVSHY6-OeMhk9wAqLztIWbokWq3ZfX-HyasAK1Gx96AEMKzH49xDa5C97MGXYMkdK3u21_Fy-KWiOP0I4Cizmass9ev1c_QXKQ5wIM5fjXcN8NucJGsOLp_FF3XjdsuHxZ922mPMVDQOAYK1jW9WhEyprhwHclyLoBuCIiPdQ13lZl2lZDkCrscTtoQPuVEAyFdhKPcSFF-lbo7DDrlKiZvlnnBu_-08ggodr4QB2BET4EVV-MG48qaVPoenUTT939q57aEfNqF_uhfi3N9c9Xxl3GgUkk1mIlpMxwEHOdIKubsWpEYXY2M3Yi5Dmu2hZNY1YGQbfMf9avn-D1a0-1N8UTcwsmDWdqA8zNPNWV3AqF1Q-PNAKawp_YMjORd9nafGIMl-BkFkqjDxMeeUl4T1_5Oe-NB0n-PZN6RXoLBD5j28NtFiAIUy95csvbLvSQa0qXS_xwDezh31Dli56YcZAfSXFnuJFrBfJHbCWzny83N3qvhPK3ME1ch8-sVWkWI2B-sX9cw6kFNeDNsswCVrzTK6p1HFAzl0en043Twurf6pm-sWhTauCOr0eXgcczCExH4AxOvgkTm9d2EpkTBuZdRlJjYkPrqNmZhZFL6M7uAkOfsRmlqBcbGy56U0vqniRWf2hYlVnn-Zk2CDtDw2LU2VYbPTcbbr8ZDkwUb94XA-qpBYQe256_i5gMmrnt77AtCb9nYjlnFf8MReLMr5hUe1CE=w584-h294-no?authuser=2",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1WIZ61gHn5uKtyKRqBGiLf8_khmJSSSHsTl0rNKQu7HLii0cr7WpQ46vD8B4WsFWSa9A&usqp=CAU",
     category: "technology",
     title: "(Funded) Energy efficient mobile target tracking using flying drones",
     date: "2013",
