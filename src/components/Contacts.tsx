@@ -94,10 +94,10 @@ const MOCKDATA = [
   { title: "Phone", description: "6358", icon: IconPhone },
   {
     title: "Address",
-    description: "Nazarbayev University 53, block 7",
+    description: "Nazarbayev University 53, block 7e, 441",
     icon: IconMapPin,
   },
-  { title: "Working hours", description: "10 a.m. – 6 p.m.", icon: IconSun },
+  { title: "Office hours", description: "10am – 6pm", icon: IconSun },
 ];
 
 export function ContactIconsList({

@@ -44,7 +44,7 @@ const Main = () => {
       {/* <HeaderResponsive /> */}
       <TopAbout />
       <Container className={classes.news}>
-        <Title className={classes.title}>News</Title>
+        <Title className={classes.title}>Latest news</Title>
       </Container>
       <SimpleGrid
         cols={2}
