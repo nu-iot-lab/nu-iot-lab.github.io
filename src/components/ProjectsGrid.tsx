@@ -40,6 +40,8 @@ const useStyles = createStyles((theme) => ({
     border: `1px solid ${
       theme.colorScheme === "dark" ? theme.colors.dark[5] : theme.colors.gray[1]
     }`,
+    minHeight: 310,
+    minWidth: 300,
   },
 
   cardTitle: {
@@ -63,6 +65,7 @@ export function FeaturesCards() {
       radius="md"
       className={classes.card}
       p="xl"
+      
     >
       <feature.icon size={50} stroke={2} color={theme.fn.primaryColor()} />
       <Text size="lg" weight={500} className={classes.cardTitle} mt="md">
@@ -88,15 +91,11 @@ export function FeaturesCards() {
         <Text color="dimmed" className={classes.description} align="center" mt="md">
         Some of our latest projects are listed below. 
       </Text>
-        <SimpleGrid
-          cols={3}
-          spacing="xl"
-          mt={50}
-          mb={100}
-          breakpoints={[{ maxWidth: "md", cols: 1 }]}
+        <Group
+          position="center" grow spacing="xl" mt="xl" align="center"
         >
           {features}
-        </SimpleGrid>
+        </Group>
       </Container>
       <GridImages />
     </Container>

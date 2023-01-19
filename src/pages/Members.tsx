@@ -6,12 +6,15 @@ import {
   createStyles,
   Grid,
   Title,
+  List,
 } from "@mantine/core";
 import React from "react";
-import { MembersData } from "../data/MembersData";
+import { MembersData, PastMembersData } from "../data/MembersData";
 
 const useStyles = createStyles((theme) => ({
-  card: {},
+  card: {
+    minHeight: 330,
+  },
   gridCard: {
     "&:last-child:nth-child(3n-1)": {
       display: "flex",
@@ -27,6 +30,19 @@ const useStyles = createStyles((theme) => ({
     justifyContent: "center",
     marginBottom: theme.spacing.xl,
   },
+  pastMemberList: {
+    padding: 0,
+    border: "1px solid #eaeaea",
+    borderRadius: theme.radius.md,
+  },
+  list: {
+    listStyle: "none",
+    textAlign: "center",
+  },
+  listItem: {
+    padding: theme.spacing.xs,
+    marginBottom: theme.spacing.md,
+  }
 }));
 
 const Members = () => {
@@ -35,7 +51,7 @@ const Members = () => {
     <Container>
       <Title className={classes.title}>Our Members</Title>
 
-      <Grid gutter={20}>
+      <Grid gutter={20} mb="xl">
         {MembersData.map((member) => (
           <Grid.Col span={4} className={classes.gridCard}>
             <Paper
@@ -70,6 +86,16 @@ const Members = () => {
           </Grid.Col>
         ))}
       </Grid>
+      <Title className={classes.title}>Past Members</Title>
+      <Container className={classes.pastMemberList}>
+        {PastMembersData.map((member) => (
+          <List spacing="xs" className={classes.list}>
+            <List.Item className={classes.listItem}>
+              <Text>{member.fullName}</Text>
+            </List.Item>
+          </List>
+        ))}
+      </Container>
     </Container>
   );
 };

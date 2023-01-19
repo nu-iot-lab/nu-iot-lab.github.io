@@ -20,6 +20,8 @@ const useStyles = createStyles((theme) => ({
     "@media (min-width: 1260px)": {
       margin: "0 200px",
     },
+    maxWidth: 600,
+
   },
   title: {
     textAlign: "center",
@@ -40,14 +42,14 @@ const useStyles = createStyles((theme) => ({
 const Main = () => {
   const { classes } = useStyles();
   return (
-    <>
+    <Container>
       {/* <HeaderResponsive /> */}
       <TopAbout />
       <Container className={classes.news}>
         <Title className={classes.title}>Latest news</Title>
       </Container>
       <SimpleGrid
-        cols={2}
+        cols={1}
         mt="md"
         className={classes.grid}
         spacing="lg"
@@ -67,7 +69,7 @@ const Main = () => {
         ))}
       </SimpleGrid>
       {/* <Subgrid/> */}
-    </>
+    </Container>
   );
 };
 

@@ -13,6 +13,8 @@ const mockdata = [
       "Long range wide area networks with deterministic behavior for high reliability and predicted latency.",
     icon: IconNetwork,
   },
+
+
 ];
 
 export default mockdata;
