@@ -42,7 +42,7 @@ const useStyles = createStyles((theme) => ({
   listItem: {
     padding: theme.spacing.xs,
     marginBottom: theme.spacing.md,
-  }
+  },
 }));
 
 const Members = () => {
@@ -76,7 +76,10 @@ const Members = () => {
                 {member.fullName}
               </Text>
               <Text align="center" color="dimmed" size="sm">
-                {member.email} • {member.position}
+                {member.email}
+              </Text>
+              <Text align="center" color="dimmed" size="sm">
+                {member.position}
               </Text>
 
               <Text align="center" color="dimmed" size="sm">
