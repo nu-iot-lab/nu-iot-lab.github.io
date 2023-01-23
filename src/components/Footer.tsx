@@ -37,7 +37,7 @@ const links = [
   { label: "Home", link: "/" },
   { label: "About", link: "/about" },
   { label: "Contact", link: "/contacts" },
-];
+]
 
 export function FooterSimple() {
   const { classes } = useStyles();

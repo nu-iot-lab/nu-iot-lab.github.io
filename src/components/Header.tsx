@@ -154,9 +154,8 @@ export function HeaderResponsive() {
           <img
             src={require("../assets/iot.png")}
             alt="logo"
-            style={{ width: "35px", height: "35px" }}
+            style={{ width: "120px", height: "71px" }}
           />
-          <h3>ResearchLab</h3>
         </Container>
 
         <Group spacing={5} className={classes.links}>

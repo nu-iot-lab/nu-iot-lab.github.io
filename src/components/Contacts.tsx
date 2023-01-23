@@ -97,7 +97,7 @@ const MOCKDATA = [
     description: "Nazarbayev University 53, block 7e, 441",
     icon: IconMapPin,
   },
-  { title: "Office hours", description: "10am – 6pm", icon: IconSun },
+  { title: "Office hours", description: "10am – 7pm", icon: IconSun },
 ];
 
 export function ContactIconsList({

@@ -114,38 +114,17 @@ export function TopAbout() {
         <Title className={classes.title}>
           Research on{" "}
           <Text component="span" className={classes.highlight} inherit>
-            Wireless Communication
-          </Text>{" "}
-          Systems
+            Internet of Things
+          </Text>
         </Title>
 
         <Container p={0} size={600}>
           <Text size="lg" color="dimmed" className={classes.description}>
-            We conduct research to find and develop promising solutions and
-            technologies for next-generation communication systems.
+            We conduct research for next-generation IoT systems.
           </Text>
         </Container>
 
-        <div className={classes.controls}>
-          <Button
-            className={classes.control}
-            size="lg"
-            variant="default"
-            color="gray"
-            onClick={handleScrollClick}
-          >
-            Latest news
-          </Button>
-          <Button
-            className={classes.control}
-            size="lg"
-            onClick={() => {
-              navigate("/contacts");
-            }}
-          >
-            Contact
-          </Button>
-        </div>
+        
       </div>
     </Container>
   );
