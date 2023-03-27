@@ -3,7 +3,7 @@ import { FooterSimple } from "./components/Footer";
 import { HeaderResponsive } from "./components/Header";
 import { ROUTES } from "./consts/routes";
 
-
+//
 function App() {
   return (
     <div className="App">
