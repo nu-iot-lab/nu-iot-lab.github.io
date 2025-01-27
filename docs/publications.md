@@ -5,4 +5,4 @@ hide:
 
 # Publications
 
-TODO
+\full_bibliography
