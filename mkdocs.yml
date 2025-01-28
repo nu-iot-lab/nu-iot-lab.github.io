@@ -192,6 +192,6 @@ nav:
   - Home: index.md
   - Members: members.md
   - Projects: projects.md
-  - Equipements: equipments.md
-  - Softwares: softwares.md
+  - Equipment: equipments.md
+  - Software: softwares.md
   - Publications: publications.md
