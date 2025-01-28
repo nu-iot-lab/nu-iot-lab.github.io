@@ -15,8 +15,8 @@ The Internet of Things research group is led by [Prof. Dimitrios Zorbas](https:/
 
 - [:material-account-group: __Members__](members.md)
 - [:octicons-project-16: __Projects__](projects.md)
-- [:material-tools: __Equipements__](equipments.md)
-- [:material-package-variant-closed: __Softwares__](softwares.md)
+- [:material-tools: __Equipment__](equipments.md)
+- [:material-package-variant-closed: __Software__](softwares.md)
 - [:material-post: __Publications__](publications.md)
 
 </div>
