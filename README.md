@@ -1,6 +1,6 @@
 # NU IoT Lab Website
 
-This repository contains the source code for the NU IoT Lab website built with MkDocs Material theme.
+This repository contains the source code for the NU IoT Lab website built with [MkDocs Material theme](https://squidfunk.github.io/mkdocs-material/).
 
 ## Prerequisites
 
@@ -80,6 +80,40 @@ This repository contains the source code for the NU IoT Lab website built with M
 ├── mkdocs.yml          # MkDocs configuration 
 └── requirements.txt    # Python dependencies
 ```
+
+## Publications
+
+### Adding New Publications
+
+1. Add your BibTeX citation to `publications.bib` file
+2. Use a unique citation key in the format: `author_year_keyword`
+
+    Example BibTeX entry:
+
+    ``` bibtex
+    @article{smith_2023_iot,
+        author  = {Smith, John and Doe, Jane},
+        title   = {IoT Security Analysis},
+        journal = {IEEE IoT Journal},
+        year    = {2023},
+        volume  = {15},
+        number  = {2},
+        pages   = {123-145}
+    }
+    ```
+
+### Citing in Content
+
+To reference a publication in any markdown page from `publications.bib`:
+
+``` markdown
+This is discussed in [@smith_2023_iot].
+```
+
+Publications are automatically rendered as footnotes using [mkdocs-bibtex](https://github.com/shyamd/mkdocs-bibtex) plugin.
+
+> [!IMPORTANT]
+> Ensure your BibTeX entries are properly formatted to avoid rendering issues.
 
 ## License
 
