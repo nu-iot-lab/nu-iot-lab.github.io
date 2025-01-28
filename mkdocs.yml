@@ -2,8 +2,9 @@
 site_name: NU IoT Lab
 site_url: https://nu-iot-lab.github.io/
 site_description: >-
-  Write your documentation in Markdown and create a professional static site in
-  minutes – searchable, customizable, in 60+ languages, for all devices
+  Nazarbayev University (NU) Internet of Things Research Group, established in 2022.
+  A dedicated research team advancing IoT technologies, embedded systems,
+  and smart applications through innovative research and development.
 
 # Repository
 repo_name: nu-iot-lab/nu-iot-lab.github.io
