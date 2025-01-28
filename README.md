@@ -1,28 +1,86 @@
-# For virtual environment activation
+# NU IoT Lab Website
 
-python -m venv venv
+This repository contains the source code for the NU IoT Lab website built with MkDocs Material theme.
 
-source venv/bin/activate # On macOS/Linux
+## Prerequisites
 
-.\venv\Scripts\activate # On Windows
+- Python 3.x
+- Git
 
-pip install -r requirements.txt
+## Local Development Setup
 
-mkdocs --help
-Commands:
-build Build the MkDocs documentation.
-get-deps Show required PyPI packages inferred from plugins in mkdocs.yml.
-gh-deploy Deploy your documentation to GitHub Pages.
-new Create a new MkDocs project.
-serve Run the builtin development server.
+1. Clone the repository:
 
-Code snippet
+    ```shell
+    git clone https://github.com/nu-iot-lab/nu-iot-lab.github.io.git
+    cd nu-iot-lab.github.io
+    ```
 
-```regex
-<img src="img\/(.+?)" alt="(.+?)"\s+width="(\d+(?:\.\d+)?)"\s*\/?>
-Replacement string:
+2. Create a virtual environment:
 
-![$2](img/$1){ width="$3" }
+    ```shell
+    python -m venv venv
+    ```
 
-mkdocs serve -a 0.0.0.0:8000
+3. Activate the virtual environment:
+
+    On macOS/Linux:
+
+    ```shell
+    source venv/bin/activate
+    ```
+
+    On Windows:
+
+    ```shell
+    .\venv\Scripts\activate
+    ```
+
+4. Install dependencies:
+
+    ```shell
+    pip install -r requirements.txt
+    ```
+
+5. Start the development server:
+
+    ```shell
+    mkdocs serve
+    ```
+
+    The site will be available at <http://127.0.0.1:8000>
+
+> [!NOTE]
+> Available Commands for `mkdocs`
+>
+> - Build the documentation:
+>
+>    ```shell
+>    mkdocs build
+>    ```
+>
+> - Deploy to GitHub Pages:
+>
+>    ```shell
+>    mkdocs gh-deploy
+>    ```
+>
+> - Create a new project:
+>
+>    ```shell
+>    mkdocs new [dir-name]
+>    ```
+
+## Project Structure
+
+``` console
+├── docs/               # Documentation source files 
+├── overrides/          # Theme customization files
+├── .github/            # GitHub Actions workflows 
+├── mkdocs.yml          # MkDocs configuration 
+└── requirements.txt    # Python dependencies
 ```
+
+## License
+
+This project is licensed under the MIT License.
