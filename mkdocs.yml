@@ -20,6 +20,7 @@ theme:
   custom_dir: overrides
   language: en
   logo: assets/images/iot-lab-logo.png
+  favicon: assets/images/favicon.ico
   features:
     - announce.dismiss
     - content.action.edit
