@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Equipements
+# Equipment
 
 ## Labs
 
