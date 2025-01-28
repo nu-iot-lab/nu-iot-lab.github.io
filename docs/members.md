@@ -22,19 +22,17 @@ hide:
 - Ruana Saduakhas, CS[^1]
 - Aruzahn Sabyrbek, CS[^1]
 - Rakhat Khamitov, CS[^1]
-- Denis Ten, CS[^1]
 - Yerassyl Kadirzhanov, CS[^1]
 - Daniyar Kakimbekov, DS[^2]
 - Dina Almassova, CS[^1]
-- Malika Azamat, CS[^1]
+- Batyrkhan Baimukhanov, CS[^1] (graduate)
 
 ### BSc Students
 
-- Batyrkhan Baimukhanov, CS[^1] (graduate)
 
 ## :material-account-search: Previous members
 
 [TODO]
 
-[^1]: Computer Sience
-[^2]: Data Sience
+[^1]: Computer Science
+[^2]: Data Science
