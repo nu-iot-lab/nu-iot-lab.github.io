@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Softwares
+# Software
 
 - :material-package-variant: [LoRa Mesh network implementation](https://github.com/nu-iot-lab/LoRa-Mesh-CDS)
 - :material-package-variant: [Synchronized ESP-NOW (ESP32)](https://github.com/iEEEda/sync-esp-now)
