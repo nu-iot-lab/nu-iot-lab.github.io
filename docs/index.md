@@ -3,13 +3,13 @@ hide:
   - navigation
 ---
 
-# Welcome to NU Iot lab
+# Welcome to NU IoT lab
 
 ![NU Iot lab logo](assets/images/iot-lab-logo.png)
 
 ## About Us
 
-The Internet of Things research group is led by [Prof. Dimitrios Zorbas](https://research.nu.edu.kz/en/persons/dimitrios-zormpas). Its purpose is to conduct research on and develop modern Internet of Things communication and sensing systems. The topics of interest include but are not limited to communication protocols, embedded programming, smart sensing systems, machine learning for IoT, and prototype development.
+The Internet of Things research group is led by [Prof. Dimitrios Zorbas](https://research.nu.edu.kz/en/persons/dimitrios-zormpas). Its purpose is to conduct research and develop modern Internet of Things communication and sensing systems. The topics of interest include but are not limited to communication protocols, embedded programming, smart sensing systems, machine learning for IoT, and prototype development.
 
 <div class="grid cards" markdown>
 
