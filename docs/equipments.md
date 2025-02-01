@@ -10,7 +10,7 @@ hide:
 ![X Lab](assets/images/devices/lab3.jpg)
 
 /// caption
-x lab :)
+Main room
 ///
 
 ## Kits
@@ -32,13 +32,13 @@ kit 2
 ![ESP wroom](assets/images/devices/wroom.webp){ width=250 }
 
 /// caption
-ESP Wroom
+ESP Wroom 32
 ///
 
 ![ESP Ttgo](assets/images/devices/ttgo.webp){ width=250 }
 
 /// caption
-ESP Ttgo
+ESP32 TTGO / Heltec v3
 ///
 
 ![Raspberry Pi Zero](assets/images/devices/zero.webp){ width=250 }
