@@ -4,6 +4,7 @@ hide:
 ---
 
 # Software
+List of repositories: [https://github.com/orgs/nu-iot-lab/repositories]
 
 - :material-package-variant: [LoRa Mesh network implementation](https://github.com/nu-iot-lab/LoRa-Mesh-CDS)
 - :material-package-variant: [Synchronized ESP-NOW (ESP32)](https://github.com/iEEEda/sync-esp-now)
