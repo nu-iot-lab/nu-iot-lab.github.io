@@ -22,6 +22,9 @@ hide:
 - Yerassyl Kadirzhanov, CS[^1]
 - Daniyar Kakimbekov, DS[^2]
 - Dina Almassova, CS[^1]
+- Nurmukhammed Aitymbetov, CS[^1]
+- Sultan Kasenov, CS[^1]
+- Saida Tulebayeva, CS[^1]
 
 ### BSc Students
 
