@@ -3,10 +3,12 @@ on:
   push:
     branches:
       - main
-      - mkdocs-barto
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   deploy:
     runs-on: ubuntu-latest
