@@ -5,6 +5,7 @@ hide:
 
 # Projects
 
+- :octicons-package-dependents-24: [FORESEE: Forecasting Renewable Energy for Smart Edge Execution and Efficiency](https://research.nu.edu.kz/en/projects/forecasting-renewable-energy-for-smart-edge-execution-and-efficie/)
 - :octicons-package-dependents-24: [Next-Generation Gas Sensing Technology to Monitor VOCs and Harmful Gases for the Agro-Industrial Complexes](https://research.nu.edu.kz/en/projects/next-generation-gas-sensing-technology-to-monitor-vocs-and-harmfu)
 - :octicons-package-dependents-24: [DEterministic Long-range IoT MEsh NeTworks](https://research.nu.edu.kz/en/projects/deterministic-long-range-iot-mesh-networks)
 - :octicons-package-dependents-24: [Development of a warning system for repair crews about the approach of a train](https://research.nu.edu.kz/en/projects/development-of-a-warning-system-for-repair-crews-about-the-approa)
