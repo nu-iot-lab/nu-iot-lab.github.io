@@ -38,3 +38,4 @@ The Internet of Things research group is led by [Prof. Dimitrios Zorbas](https:/
     Block C4, Room 554
     Kabanbay Batyr 53, 010000
     Astana, Kazakhstan
+    email: dimitrios.zorbas@nu.edu.kz
